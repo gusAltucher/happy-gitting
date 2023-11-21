@@ -1,6 +1,6 @@
 # Happy gitting everyone!
 
-This is markdown readme file!
+This is markdown readme file, how net is that!
 
 You can add images here as in any other markdown document:
 
@@ -17,4 +17,4 @@ You can add images here as in any other markdown document:
   `git push`
 * You can also upload the changed files through GH menus.
 
-Have fun!
+Have fun! And have a great day!
