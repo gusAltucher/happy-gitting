@@ -1,6 +1,6 @@
 # Happy gitting everyone!
 
-This is markdown readme file, how net is that!
+This is markdown readme file, how neat is that!
 
 You can add images here as in any other markdown document:
 
